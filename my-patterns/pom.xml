@@ -14,6 +14,7 @@
 		<module>my-builder</module>
 		<module>my-prototype</module>
 		<module>my-adaptor</module>
+		<module>my-bridge</module>
 	</modules>
 	<dependencies>
 		<dependency>
