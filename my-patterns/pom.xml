@@ -16,6 +16,8 @@
 		<module>my-adaptor</module>
 		<module>my-bridge</module>
 		<module>my-filter</module>
+		<module>my-composite</module>
+		<module>my-decorator</module>
 	</modules>
 	<dependencies>
 		<dependency>
