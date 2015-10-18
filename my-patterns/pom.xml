@@ -18,6 +18,9 @@
 		<module>my-filter</module>
 		<module>my-composite</module>
 		<module>my-decorator</module>
+		<module>my-facade</module>
+		<module>my-flyweight</module>
+		<module>my-proxy</module>
 	</modules>
 	<dependencies>
 		<dependency>
