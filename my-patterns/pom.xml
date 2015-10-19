@@ -24,6 +24,9 @@
 		<module>my-facade</module>
 		<module>my-flyweight</module>
 		<module>my-proxy</module>
+		<module>my-command</module>
+		<module>my-interpreter</module>
+		<module>my-iterator</module>
 	</modules>
 	<dependencies>
 		<dependency>
