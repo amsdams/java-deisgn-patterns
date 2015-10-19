@@ -27,12 +27,11 @@
 		<module>my-command</module>
 		<module>my-interpreter</module>
 		<module>my-iterator</module>
+		<module>my-mediator</module>
+		<module>my-memento</module>
 	</modules>
 	<dependencies>
 		<dependency>
-
-
-
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
