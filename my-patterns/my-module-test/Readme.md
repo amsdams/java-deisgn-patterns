@@ -1,0 +1,1 @@
+This is a simple odule to test the project and the project's modules for existance of Readme.md, pom.xml, contents of /src/main/java for existance of main code and contents of /src/test/java for existance of test code 

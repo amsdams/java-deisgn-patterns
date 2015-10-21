@@ -29,6 +29,11 @@
 		<module>my-iterator</module>
 		<module>my-mediator</module>
 		<module>my-memento</module>
+		<module>my-observer</module>
+
+		<module>my-state</module>
+		<module>my-nullobject</module>
+		<module>my-module-test</module>
 	</modules>
 	<dependencies>
 		<dependency>

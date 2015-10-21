@@ -1,0 +1,1 @@
+This is a simple package which contains a test helpers classes. right now only one class exsists to test static void main for sysout or syserr output.
