@@ -34,6 +34,10 @@
 		<module>my-state</module>
 		<module>my-nullobject</module>
 		<module>my-module-test</module>
+		<module>my-strategy</module>
+		<module>my-template</module>
+		<module>my-visitor</module>
+		<module>my-mvc</module>
 	</modules>
 	<dependencies>
 		<dependency>
