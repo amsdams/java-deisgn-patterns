@@ -1,18 +1,24 @@
 #Behavioral patterns
 
-./my-patterns/my-command/Readme.md
-./my-patterns/my-interpreter/Readme.md
-./my-patterns/my-iterator/Readme.md
-./my-patterns/my-mediator/Readme.md
-./my-patterns/my-memento/Readme.md
+./my-command/Readme.md
+./my-interpreter/Readme.md
+./my-iterator/Readme.md
+./my-mediator/Readme.md
+./my-memento/Readme.md
+./my-observer/Readme.md
+./my-state/Readme.md
+./my-strategy/Readme.md
+./my-template/Readme.md
+./my-visitor/Readme.md
 
 #Structural patterns
 
-./my-patterns/my-adaptor/Readme.md
-./my-patterns/my-bridge/Readme.md
-./my-patterns/my-composite/Readme.md
-./my-patterns/my-decorator/Readme.md
-./my-patterns/my-facade/Readme.md
-./my-patterns/my-filter/Readme.md
-./my-patterns/my-flyweight/Readme.md
-./my-patterns/my-proxy/Readme.md
+./my-adaptor/Readme.md
+./my-bridge/Readme.md
+./my-composite/Readme.md
+./my-decorator/Readme.md
+./my-facade/Readme.md
+./my-filter/Readme.md
+./my-flyweight/Readme.md
+./my-proxy/Readme.md
+
