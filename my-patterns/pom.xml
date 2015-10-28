@@ -38,6 +38,8 @@
 		<module>my-template</module>
 		<module>my-visitor</module>
 		<module>my-mvc</module>
+		<module>my-abstract-factory</module>
+		<module>my-abstract-factory-extended</module>
 	</modules>
 	<dependencies>
 		<dependency>
