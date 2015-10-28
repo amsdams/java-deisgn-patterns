@@ -1,3 +1,4 @@
+
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
@@ -40,6 +41,14 @@
 		<module>my-mvc</module>
 		<module>my-abstract-factory</module>
 		<module>my-abstract-factory-extended</module>
+		<module>my-chain-of-responsibility</module>
+		<module>my-business-delegate</module>
+		<module>my-composite-enity</module>
+		<module>my-data-access-object</module>
+		<module>my-front-controller</module>
+		<module>my-intercepting-filter</module>
+		<module>my-service-locator</module>
+		<module>my-transfer-object</module>
 	</modules>
 	<dependencies>
 		<dependency>
